@@ -1,3 +1,4 @@
+#!/bin/bash -x
 echo "welcome"
 echo  "Enter = the no of time you want to flip coin : "
 read n
