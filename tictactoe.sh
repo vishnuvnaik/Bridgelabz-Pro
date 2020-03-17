@@ -117,7 +117,7 @@ then
     echo "Computer Win"
 elif [ $timePlayed -eq 9 ] #condition to check tie match
 then
-    echo "Match Tie"
+    echo "Match  Tie"
 elif [ $1 == "x" ] #play again till the game comes to an end
 then
     comPlays #computer's turn
