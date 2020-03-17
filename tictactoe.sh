@@ -125,7 +125,7 @@ else
     userPlays #user's turn
 fi
 }
-echo "Game starts"
+echo " Game starts "
 timePlayed=0
 setboard
 displayBoard
